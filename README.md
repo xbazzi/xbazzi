@@ -1,4 +1,9 @@
-## Hi there 👋
+## Howdy
+I engineer software. Some of the things I enjoy:
+
+- Numerical methods
+- Competitive programming
+- Scientific programming
 
 <!--
 **alexbazzi/alexbazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
