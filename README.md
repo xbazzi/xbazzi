@@ -5,7 +5,8 @@
  ██╔██╗ ██╔══██╗██╔══██║ ███╔╝   ███╔╝  ██║
 ██╔╝ ██╗██████╔╝██║  ██║███████╗███████╗██║
 ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝
-I engineer software. Some of the things I enjoy:
+
+I engineer software. Some of the things I'm working on:
 
 - Numerical methods
 - Competitive programming
