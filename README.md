@@ -13,6 +13,7 @@ I engineer software. Some of the things I'm working on:
 - Scientific programming
 - Graphics programming
 - Digital image processing
+- Fluid dynamics
 
 <!--
 **alexbazzi/alexbazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
