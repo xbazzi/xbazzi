@@ -5,7 +5,6 @@
  ██╔██╗ ██╔══██╗██╔══██║ ███╔╝   ███╔╝  ██║
 ██╔╝ ██╗██████╔╝██║  ██║███████╗██████╗██║
 
-
 I engineer software. Some of the things I'm working on:
 
 - Numerical methods
