@@ -9,7 +9,7 @@ I engineer software. Some of the things I'm working on:
 - Numerical methods
 - Competitive programming
 - Scientific programming
-- Graphics programming
+- GPU programming
 - Digital image processing
 - Fluid dynamics
 </p>
