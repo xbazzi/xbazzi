@@ -1,4 +1,4 @@
-## Howdy
+## hello world
 <div align="left">
     <img src="img/xbazzi.png" alt="Logo" width="500px" />
 </div>
