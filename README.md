@@ -1,10 +1,9 @@
 ## Howdy
-█╗  ██╗██████╗ ████╗█████╗
-█╗██╔╝██╔══██╗██╔══██╗╚══███╔╝╚═█╔╝█
-╚███╔╝ ██████╔╝███████║  ███╔   ██ ██║
-██╔██╗ ██╔══█╗██╔══██║ ███╔╝   ███╔╝  
-█╔╝ ███████╔╝██║  ██║███
-
+<div align="left">
+    <img src="img/xbazzi.png" alt="Logo" width="500px" />
+</div>
+<div>
+<p>
 I engineer software. Some of the things I'm working on:
 
 - Numerical methods
@@ -13,6 +12,8 @@ I engineer software. Some of the things I'm working on:
 - Graphics programming
 - Digital image processing
 - Fluid dynamics
+</p>
+</div>
 
 <!--
 **alexbazzi/alexbazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
