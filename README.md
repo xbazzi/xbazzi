@@ -3,7 +3,7 @@
     <img src="img/xbazzi.png" alt="Logo" width="500px" />
 </div>
 <div>
-I engineer software and write bugs sometimes. Some of the things I'm working on:
+I engineer software and write bugs. Some of the things I'm working on:
 
 - Numerical methods
 - Competitive programming
