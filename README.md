@@ -17,7 +17,7 @@ TODO:
 - FOSS contribution
 - Learn functional programming
 - Touch a JS framework
-- Fiddle with all the Opens:
+- Fiddle with the Opens:
     - OpenMP
     - OpenCV
     - OpenGL
