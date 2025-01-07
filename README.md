@@ -1,4 +1,4 @@
-## hello world
+## hello universe
 <div align="left">
     <img src="img/xbazzi.png" alt="Logo" width="500px" />
 </div>
@@ -22,3 +22,4 @@ TODO:
     - OpenCV
     - OpenGL
     - OpenFOAM
+- Touch grass (not required)
