@@ -8,15 +8,14 @@ I engineer software and write bugs. Some of the things I'm working on:
 - Numerical methods
 - Competitive programming
 - Scientific programming
+- Systems programming
 - CUDA
-- Digital image processing
 - Fluid dynamics
 
 TODO:
 
 - FOSS contribution
-- Learn functional programming
-- Touch a JS framework
+- ~~Learn functional programming~~ Nix (kinda counts)
 - Fiddle with the Opens:
     - OpenMP
     - OpenCV
