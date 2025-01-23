@@ -15,6 +15,8 @@ I engineer software and write bugs. Some of the things I'm working on:
 TODO:
 
 - FOSS contribution
+- Socket programming
+- Design Patterns
 - ~~Learn functional programming~~ Nix (kinda counts)
 - Fiddle with the Opens:
     - OpenMP
