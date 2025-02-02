@@ -11,6 +11,7 @@ I engineer software and write bugs. Some of the things I'm working on:
 - Systems programming
 - CUDA
 - Fluid dynamics
+- My never ending [NixOs Config](https://github.com/xbazzi/nixos-config)
 
 TODO:
 
