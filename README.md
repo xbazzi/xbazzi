@@ -18,7 +18,7 @@ I engineer software and write bugs. Some of the things I'm working on:
 - FOSS contribution
 - Socket programming
 - Design Patterns
-- ~~Learn functional programming~~ Nix (kinda counts)
+- ~~Learn functional programming~~ -> Nix
 - Fiddle with the Opens:
     - OpenMP
     - OpenCV
