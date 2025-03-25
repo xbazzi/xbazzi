@@ -6,10 +6,8 @@
 
 I engineer software and write bugs that I fix later. Some of the things I'm working on:
 
-- Numerical methods
+- Low-latency, hardware-optimized, high-performance code
 - Competitive programming
-- Scientific computing
-- Systems programming
-- CUDA
-- Fluid dynamics
+- Statistical modeling
+- Scientific computing and numerical methods
 - My never ending [NixOs Config](https://github.com/xbazzi/nixos-config)
