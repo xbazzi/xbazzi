@@ -4,7 +4,9 @@
 </div>
 <div>
 
-I engineer software and write bugs that I fix later. Some of the things I'm working on:
+C++ by day, Rust by night, Python when I have to.
+
+Some of the things I'm working on:
 
 - Low-latency, hardware-optimized, high-performance code
 - Competitive programming
