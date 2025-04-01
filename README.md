@@ -4,7 +4,7 @@
 </div>
 <div>
 
-C++ by day, Rust by night, Python by force.
+C++ by day, C++ by night, Python by force. Rust just to say I've tried it.
 
 Some of the things I'm working on:
 
